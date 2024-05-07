@@ -1,3 +1,4 @@
 #! /usr/bin/env bash
 
-docker build myimagename -t mytag . 
+# docker build myimagename:mytag options
+docker build -t edge_server:v1 .  
