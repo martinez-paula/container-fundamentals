@@ -1,5 +1,5 @@
 FROM alpine:3.19.1
-LABEL org.opencontainers.image.authors="jamieduncan@google.com"
+LABEL org.opencontainers.image.authors="Paula Martinez"
 LABEL org.opencontainers.image.source=https://github.com/jduncan-rva/container-fundamentals
 LABEL org.opencontainers.image.description="Containter Fundamentals - Static Website Image"
 LABEL org.opencontainers.image.licenses=APACHE2
